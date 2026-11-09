@@ -148,7 +148,7 @@ The focus is on continuous improvement, experimentation, and learning through ha
 
 Interested in my work or collaborating on a project?
 
-**GitHub:** [YOUR_USERNAME](https://github.com/BlueHawkAlpha)
+**GitHub:** [BlueHawkAlpha](https://github.com/BlueHawkAlpha)
 
 **Email:** YOUR_EMAIL
 
