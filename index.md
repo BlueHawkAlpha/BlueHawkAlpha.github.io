@@ -154,4 +154,4 @@ Interested in my work or collaborating on a project?
 
 ---
 
-\<sub>© 2026 BlueHawkAlpha · Built with curiosity.\</sub>
+© 2026 BlueHawkAlpha · Built with curiosity.
