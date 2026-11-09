@@ -1,123 +1,154 @@
 ---
-layout: default
+
+# `BLUEHAWKALPHA` / Portfolio
+
+**IT • Cybersecurity • Development**
+
+> Building, breaking, understanding, and improving technology.
+
+[GitHub](https://github.com/BlueHawkAlpha) / [Projects](#projects) / [Contact](#contact)
+
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+## 01 / About
 
-[Link to another page](./another-page.html).
+I'm an aspiring IT and cybersecurity enthusiast with a strong interest in understanding how computers work, from everyday troubleshooting to low-level system behaviour.
 
-There should be whitespace between paragraphs.
+My interests include Windows systems, cybersecurity, threat hunting, reverse engineering, and software development.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+I enjoy working on practical projects that challenge me to understand technology beyond simply using it.
 
-# Header 1
+Currently exploring: `Windows Internals` · `Cybersecurity` · `Rust`
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+## 02 / Areas of Interest
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+| Area              | Focus                                                     |
+| :---------------- | :-------------------------------------------------------- |
+| **Cybersecurity** | Threat hunting, defensive security, malware analysis      |
+| **Systems**       | Windows internals, operating systems, low-level computing |
+| **IT**            | PC repair, troubleshooting, system configuration          |
+| **Development**   | Rust, Python, scripting, software tools                   |
 
-### Header 3
+---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## 03 / Projects
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+*A collection of projects, experiments, and technical work.*
 
-#### Header 4
+### Featured Projects
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+---
 
-##### Header 5
+### 01 — SentinelForge
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+`CYBERSECURITY` / `IN DEVELOPMENT`
 
-###### Header 6
+A personal Windows security investigation tool focused on understanding system behaviour and identifying suspicious activity.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+**Objectives**
 
-### There's a horizontal rule below this.
+- Investigate Windows processes and system activity.
+- Explore Windows internals through practical development.
+- Develop basic threat detection capabilities.
 
-* * *
+**Technologies:** Rust · Windows · Cybersecurity
 
-### Here is an unordered list:
+[Source Code](PROJECT_LINK)
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+---
 
-### And an ordered list:
+### 02 — Project Name
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+`CATEGORY` / `STATUS`
 
-### And a nested list:
+A short description of what the project does, why I created it, and what I learned.
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+**Key Features**
 
-### Small image
+- Feature or capability.
+- Feature or capability.
+- Feature or capability.
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+**Technologies:** Language · Tools · Frameworks
 
-### Large image
+[Source Code](PROJECT_LINK)
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+---
 
+### 03 — Project Name
 
-### Definition lists can be used with HTML syntax.
+`CATEGORY` / `STATUS`
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Briefly explain the purpose of the project and the problem it solves.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+**Key Features**
 
-```
-The final element.
-```
+- Feature or capability.
+- Feature or capability.
+
+**Technologies:** Language · Tools
+
+[Source Code](PROJECT_LINK)
+
+---
+
+## 04 / Technical Skills
+
+**IT & Systems**
+
+- Windows installation and configuration
+- PC and laptop troubleshooting
+- Hardware replacement and diagnosis
+- Driver and operating system issues
+- Malware detection and removal
+
+**Cybersecurity**
+
+- Wireshark and network analysis
+- Windows security investigation
+- Defensive security fundamentals
+- Active Directory fundamentals
+
+**Development**
+
+- Rust
+- Python
+- Git and GitHub
+
+*Skills and technologies will be updated as I continue learning.*
+
+---
+
+## 05 / Currently Working On
+
+| Project                             | Status         |
+| :---------------------------------- | :------------- |
+| Windows security investigation tool | In development |
+| Low-level computing experiments     | Learning       |
+| Cybersecurity research and labs     | Ongoing        |
+
+---
+
+## 06 / Beyond the Projects
+
+This portfolio is a record of my development as an IT and cybersecurity enthusiast.
+
+I aim to build practical tools, understand the systems behind them, and contribute to projects that solve real technical problems.
+
+The focus is on continuous improvement, experimentation, and learning through hands-on work.
+
+---
+
+## 07 / Contact
+
+Interested in my work or collaborating on a project?
+
+**GitHub:** [YOUR_USERNAME](https://github.com/BlueHawkAlpha)
+
+**Email:** YOUR_EMAIL
+
+---
+
+\<sub>© 2026 BlueHawkAlpha · Built with curiosity.\</sub>
